@@ -1,0 +1,19 @@
+
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+
+# Variables et clés secrètes
+.env
+.env.*
+
+# Configuration locale
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
